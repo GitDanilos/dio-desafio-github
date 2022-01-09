@@ -1,0 +1,30 @@
+Para desenvolvimento de Projetos Ágeis é necessário a utilização de alguns frameworks exemplo o SCRUM
+
+Scrum tem 3 pilares fundamentais 
+TRANSPARÊNCIA
+ADAPTAÇÃO
+INSPEÇÃO
+
+Razões para adotar o SCRUM
+	Desenvolvido e entregue em partes menores (2 a 4 semanas)
+	Constante feedback com usuários
+	Melhor gerenciamento de risco
+	Comprometimento, motivação e transparência da equipe (Daily Meeting)
+	Maior valos para o negócio (Priorização do backlog)
+	Usuários envolvidos durante todo o ciclo
+	Melhoria contínua
+
+Caracteristica do time SCRUM
+	Equipes capazes de se organizar
+	As tarefas são do time
+	Forte comprometimento com o resultado
+
+Startups trabalha com o MVP
+MVP - MINIMUM VIABLE PRODUCT
+
+Característica Projeto ágil?
+Escopo definido ao longo do Projeto
+
+Quais são os pilares do SCRUM?
+Adaptação, Transparência e Inspeção
+
